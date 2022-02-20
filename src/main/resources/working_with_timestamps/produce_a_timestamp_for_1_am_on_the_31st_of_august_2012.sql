@@ -1,0 +1,1 @@
+select '2012-08-31 1:00'::timestamp;
